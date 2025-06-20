@@ -25,6 +25,7 @@ function addTask(title) {
     drawTask(task, tasks.length - 1);
 }
 
+
 /**
  * [学生2]
  * 「チェックボックス」をクリックしたときに、
